@@ -4,7 +4,7 @@ import Markdown from 'react-markdown'
 import {useEffect} from 'react'
 import SyntaxHighlighter from 'react-syntax-highlighter';
 import { atelierDuneDark } from 'react-syntax-highlighter/dist/esm/styles/hljs';
-import notes from '../../../public/note.txt'
+//import notes from '../../../public/note.txt'
 import './note.scss'
 
 
