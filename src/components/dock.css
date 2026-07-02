@@ -1,0 +1,53 @@
+.dock {
+  display: flex;
+  gap: 0.75rem;
+  position: absolute;
+  bottom: 1rem;
+  left: 50%;
+  transform: translate(-50%);
+  background-color: rgba(37, 37, 37, 0.502);
+  padding-inline: 0.75rem;
+  padding-block: 0.55rem;
+  border-radius: 0.75rem;
+  backdrop-filter: blur(5px);
+}
+.dock .icon {
+  padding: 0.65rem;
+  border-radius: 0.5rem;
+  width: 3.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  aspect-ratio: 1/1;
+  transition: all 0.5s cubic-bezier(0.19, 1, 0.22, 1);
+}
+.dock .github,
+.dock .cli {
+  background-color: black;
+}
+.dock .note {
+  background: linear-gradient(to bottom, rgb(255, 159, 74), rgb(255, 135, 28));
+}
+.dock .pdf {
+  background: linear-gradient(to bottom, rgb(246, 59, 68), rgb(255, 29, 40));
+}
+.dock .calender,
+.dock .mail {
+  background: linear-gradient(to bottom, rgb(106, 69, 250), rgb(82, 38, 255));
+}
+.dock .spotify {
+  background: linear-gradient(to bottom, rgb(78, 176, 33), rgb(53, 142, 12));
+}
+.dock .link {
+  background: linear-gradient(to bottom, rgb(179, 104, 165), rgb(149, 22, 119));
+}
+.dock .chat {
+  background: linear-gradient(to bottom, rgb(78, 176, 33), rgb(53, 142, 12));
+}
+.dock .icon:hover {
+  transform: scale(1.2) translateY(-20%);
+}
+.dock .icon:hover + .icon,
+.dock .icon:has(+ .icon:hover) {
+  transform: scale(1.1) translateY(-10%);
+}/*# sourceMappingURL=dock.css.map */

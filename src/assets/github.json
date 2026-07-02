@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "img": "https://images.unsplash.com/photo-1705077564892-4d0560b1f4a1?q=80&w=1109&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "Weather App",
+    "desc": "A responsive weather application that provides real-time weather information, including temperature, humidity, wind speed, and weather forecasts for any city using a weather API.",
+    "tags": [
+      "React.js",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "OpenWeather API",
+      
+      "REST API"
+    ],
+    "repoLink": "https://github.com/yourusername/weather-app",
+    "demoLink": "https://weather-app-demo.vercel.app"
+  },
+  {
+    "id": 2,
+    "img": "https://images.unsplash.com/photo-1712566758028-5a97ad965e71?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "YouTube Shorts Clone",
+    "desc": "A YouTube Shorts-inspired web application featuring vertical video scrolling, responsive design, video playback controls, and an engaging short-form content viewing experience.",
+    "tags": [
+      "React.js",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "YouTube API",
+      "Firebase"
+    ],
+    "repoLink": "https://github.com/yourusername/youtube-shorts-clone",
+    "demoLink": "https://youtube-shorts-clone.vercel.app"
+  },
+   {
+    "id": 3,
+    "img": "https://images.unsplash.com/photo-1712566758028-5a97ad965e71?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "title": "YouTube Shorts Clone",
+    "desc": "A YouTube Shorts-inspired web application featuring vertical video scrolling, responsive design, video playback controls, and an engaging short-form content viewing experience.",
+    "tags": [
+      "React.js",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "YouTube API",
+      "Firebase"
+    ],
+    "repoLink": "https://github.com/yourusername/youtube-shorts-clone",
+    "demoLink": null 
+  }
+]

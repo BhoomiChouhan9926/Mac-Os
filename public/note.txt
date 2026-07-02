@@ -1,0 +1,60 @@
+export const PROFILE = {
+  role: "MERN Stack Developer",
+
+  description: `
+Passionate MERN Stack Developer with expertise in MongoDB,
+ Express.js, React.js, and Node.js. I build responsive, 
+ scalable, and high-performance web applications with a
+  focus on clean code, intuitive user experiences, and
+   modern development practices.
+`,
+
+  techStack: {
+    frontend: [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "TypeScript",
+      "React.js",
+      "Tailwind CSS",
+      "Bootstrap"
+    ],
+
+    backend: [
+      "Node.js",
+      "Express.js",
+      "REST API Development"
+    ],
+
+    database: [
+      "MongoDB",
+      "Mongoose"
+    ],
+
+    tools: [
+      "Git",
+      "GitHub",
+      "Postman",
+      "VS Code",
+      "npm"
+    ]
+  },
+
+  academicAchievements: [
+    "Class 10th: 82%",
+    "Class 12th: 92%",
+    "B.Tech CGPA: 8.33",
+    "Strong understanding of Data Structures & Algorithms",
+    "Built multiple full-stack web applications",
+    "Hands-on experience with modern web development technologies"
+  ],
+
+  responsibilities: [
+    "Full-Stack Web Development",
+    "API Design & Integration",
+    "Database Management",
+    "Performance Optimization",
+    "Responsive UI Development"
+  ]
+};
+
